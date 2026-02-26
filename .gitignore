@@ -211,3 +211,5 @@ gui/interface.ui
 
 # Test Zone
 test/
+
+offline_packages
