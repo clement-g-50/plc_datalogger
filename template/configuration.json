@@ -1,0 +1,21 @@
+{
+    "type_plc": 0,
+    "ip_address": "192.168.254.128",
+    "temps_scan": 5,
+    "slot": 2,
+    "csv_file_adress": "/home/clement/Documents/PLC/Projets/plc_datalogger/test",
+    "tags": [
+        {
+            "plc": "Program:MainProgram.timer.ACC",
+            "csv": "timer"
+        },
+        {
+            "plc": "Program:MainProgram.test1",
+            "csv": "test_bool"
+        },
+        {
+            "plc": "Program:MainProgram.testmul",
+            "csv": "multi"
+        }
+    ]
+}

@@ -208,3 +208,6 @@ __marimo__/
 
 # Gui
 gui/interface.ui
+
+# Test Zone
+test/
