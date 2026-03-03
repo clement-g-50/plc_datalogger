@@ -18,6 +18,10 @@ Une application légère et performante pour l'acquisition de données (Datalogg
 2. Lancez l'application.
 3. Configurez l'adresse IP de votre automate et les tags à surveiller.
 
+
+### Aide
+Le Wiki sera bientôt disponible.
+
 ---
 
 ## 🇺🇸 English
@@ -35,6 +39,9 @@ A lightweight and high-performance data logging application for **Rockwell / All
 1. Download the latest version (`.exe`) from the [Releases](../../releases) tab.
 2. Run the application.
 3. Configure your PLC IP address and the tags to monitor.
+
+### Help
+This help wiki is soon
 
 ---
 
