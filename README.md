@@ -5,6 +5,9 @@
   <img src="https://img.shields.io/github/license/clement-g-50/plc_datalogger?style=for-the-badge" alt="License">
 </p>
 
+![GitHub Downloads (specific asset, all releases)](https://img.shields.io/github/downloads/clement-g-50/plc_datalogger/plc_datalogger_vO_0_3_windows.exe)
+
+
 ---
 
 ## 🇫🇷 Français
