@@ -22,7 +22,7 @@ Une application légère et performante pour l'acquisition de données (**Datalo
 ![Demo Configuration](https://github.com/clement-g-50/plc_datalogger/raw/main/template/template_import.gif)
 
 ### 🚀 Installation & Utilisation
-1. Téléchargez la dernière version (`.exe` ou binaire Linux) dans l'onglet [Releases](../../releases).
+1. Téléchargez la dernière version dans l'onglet Release.
 2. Lancez l'application (Plug & Play).
 3. **Configuration :** Utilisez le fichier `template_configuration.json` via **Fichier > Ouvrir** pour charger vos tags.
 
@@ -54,7 +54,7 @@ A lightweight and high-performance data logging application for **Rockwell / All
 ![Demo Configuration](https://github.com/clement-g-50/plc_datalogger/raw/main/template/template_import.gif)
 
 ### 🚀 Installation & Setup
-1. Download the latest version from the [Releases](../../releases) tab.
+1. Download the latest version from the releases tab.
 2. Run the application.
 3. **Setup:** Use the `template_configuration.json` by going to **Fichier > Ouvrir** (File > Open) inside the app to load it.
 
